@@ -3,9 +3,13 @@ home                                 index.html
 acomodação                           acomodacao.html 
     suite double                     suitedouble.html
     suite master                     suitemaster.html 
-    suite standart                   suitestandart.html
+    suite standard                   suitestandard.html
 lazer                                lazer.html
 gastronomia                          gastronomia.html
 eventos                              eventos.html
 reservas                             reservas.html
 localização                          localizacao.html
+
+
+
+
